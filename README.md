@@ -1,2 +1,1 @@
-# PrimerRepositorio
-Repositorio de prueba
+Prueba para crear un repositorio y clonarlo
